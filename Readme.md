@@ -18,6 +18,7 @@ We employed both Multi-Layer Perceptron (MLP) and LightGBM model for tackling th
 │   ├── PdM_maint.csv
 │   ├── PdM_telemetry.csv
 │   └── training_data.parquet
+├── notebooks_html
 ├── EDA.ipynb
 ├── Feature_engineering.ipynb
 ├── Modeling.ipynb
@@ -28,6 +29,7 @@ We employed both Multi-Layer Perceptron (MLP) and LightGBM model for tackling th
 └── utils.py
 ```
 
+- notebooks_html: Contains the exported notbooks in html
 - EDA.ipynb: Exploratory Data Analysis
 - Feature_engineering.ipynb: Creates the features and the target variable and stores the training data under 'data/training_data.parquet'
 - Modeling.ipynb: Trains and evaluates both MLP and LightGBM models
