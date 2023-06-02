@@ -25,7 +25,6 @@ We employed both Multi-Layer Perceptron (MLP) and LightGBM model for tackling th
 ├── Predictive_maintenance.pptx
 ├── Readme.md
 └── requirements.txt
-└── report.docx
 └── utils.py
 ```
 
